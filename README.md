@@ -12,7 +12,7 @@
 
 
 
-### 🤔 Sobre o contador?
+### 🤔 Sobre a tabuada?
 
 É um pequeno exercício feito onde uma tabuada é gerada ao se digitar um número e clicar no botão.
 
