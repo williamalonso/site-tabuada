@@ -3,7 +3,7 @@
     </h1>
 
 <div align="center">
-  <img src="https://github.com/williamalonso/site-tabuada/blob/master/_img/home.png" alt"Tabuada" title="Tabuada" width="600" />
+  <img src="https://github.com/williamalonso/site-tabuada/blob/master/_imagens/home.png" alt"Tabuada" title="Tabuada" width="600" />
   
 
 ---
